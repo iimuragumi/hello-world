@@ -1,8 +1,4 @@
-# hello-world
-practice repository
-this is a test.
-
-SQL
+# SQL
 Group by → where →select →　order byの順に処理される
 
 縦持ちのデータを横持にしたい場合
